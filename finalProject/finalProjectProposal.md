@@ -15,5 +15,5 @@ to verify if I am just being unlucky.\
 Dataset: https://www.transtats.bts.gov/Tables.asp?QO_VQ=EFD&QO_anzr=Nv4yv0r%20b0-gvzr%20cr4s14zn0pr%20Qn6n\
 \
 On this website, I had to download data by month, and one month of data was about\
-200~250MB, so if I use about 6~7 yrs of data, it would be 15GB.
+200-250MB, so if I use about 6-7 yrs of data, it would be 15GB.
 
