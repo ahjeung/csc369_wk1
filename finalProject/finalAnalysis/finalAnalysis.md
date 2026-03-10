@@ -16,6 +16,7 @@ The dataset can be found here: https://www.transtats.bts.gov/Tables.asp?QO_VQ=EF
 
 #### Results
 I first looked at whether there was a correlation between airport size and how frequent delays occurred. 
+
 ![alttext](depDelayRate.png)
 
 From this graph, we can see that the airports with more flights tend to have a higher rate of delayed departures. 
@@ -25,5 +26,16 @@ while 12% of airplanes that arrive on time depart late for its next flight. This
 instead of somee other cause
 
 For the next part of my analysis, I looked at which airports are causing delays (which lead to further delays throughout the day). I called instances of an airplane arriving on time
-but its next flight being delayed as sourceDelays, and analyzed which airports had the highest rate of sourceDelays. 
+but its next flight being delayed as sourceDelays, and analyzed which airports had the highest rate of sourceDelays.
+
 ![alttext](sourceDelayRate.png)
+
+From this graph, we can see that airports with more flights tend to be causing more delays than airports with fewer flights. 
+
+I also looked at which airports correct delays. I called instances of an airplane arriving late but its next flight departing on time as correctDelays, and analyzed which airports
+had the highest rate of correctDelays. 
+
+![alttext](correctDelayRate.png)
+
+There doesn't seem to be a correlation between how busy an airport is and how well it can recover from delays. 
+
