@@ -59,4 +59,4 @@ For Delta and American, both small and large airports tend to be the source of d
 | :---: | :---: | :---: |
 | ![alttext](WNcorrectDelayRate.png) | ![alttext](DLcorrectDelayRate.png) | ![alttext](AAcorrectDelayRate.png) |
 
-For Southwest and Delta, larger airports tend to be worse at recovering from delays, while for American, larger airports are somewhat better at recovering from delays. 
+For Southwest and Delta, larger airports tend to be worse at recovering from delays, while for American, larger airports tend to be better at recovering from delays. 
